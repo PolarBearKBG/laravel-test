@@ -23,3 +23,7 @@ get('about', function () {
 get('reporting', function () {
     return 'Report Page';
 });
+
+get('test', function () {
+    return 'Test Page';
+});
