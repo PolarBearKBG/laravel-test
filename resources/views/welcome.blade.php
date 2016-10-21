@@ -86,6 +86,7 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
                 <p>Tester alias</p>
+                <p>Commander branch</p>
             </div>
         </div>
     </body>
