@@ -85,7 +85,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-                <p>Git stash</p>
+                <p>Her står det noe nå</p>
             </div>
         </div>
     </body>
